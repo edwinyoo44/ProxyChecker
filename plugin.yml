@@ -1,6 +1,6 @@
 name: ProxyChecker
 main: edwinyoo44\proxychecker\ProxyChecker
-version: 1.0.0
+version: 1.0.1
 api: [4.0.0]
 author: edwinyoo44
 
