@@ -5,6 +5,7 @@ branches:
 projects:
   ProxyChecker:
     path: ""
+    icon: "/assets/icon.png"
     libs:
       - src: edwinyoo44/libIPGeolocation/libIPGeolocation
         version: ^1.0.1
