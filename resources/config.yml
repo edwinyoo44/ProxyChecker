@@ -1,0 +1,3 @@
+allow-localhost: true
+allow-proxy: false
+kick-messages: "You seem to be using a VPN or Proxy."

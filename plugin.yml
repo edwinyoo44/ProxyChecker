@@ -1,0 +1,7 @@
+name: ProxyChecker
+main: edwinyoo44\proxychecker\ProxyChecker
+version: 1.0.0
+api: [4.0.0]
+author: edwinyoo44
+
+website: https://github.com/edwinyoo44/ProxyChecker
