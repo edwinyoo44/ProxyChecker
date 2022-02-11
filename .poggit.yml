@@ -1,0 +1,11 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/edwinyoo44/ProxyChecker
+build-by-default: true
+branches:
+- master
+projects:
+  ProxyChecker:
+    path: ""
+    libs:
+      - src: edwinyoo44/libIPGeolocation/libIPGeolocation
+        version: ^1.0.1
+...
